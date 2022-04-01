@@ -3,7 +3,7 @@ This repository contains files for Web-Scraping Wikipedia page and making a date
 
 ## About the Project
 
-For this project I performed scraping of Wikipedia pages for Disney movies to create a Disney Movies dataset. From the data availale on wikipedia such as `Title`, `Directed by`, `Produced by`, `Written by`, `Narrated by`,  `Music by`, `Cinematography`, `Edited by`, `Production company`, `Distributed by`, `Release date`, `Running time`, `Country`, `Language` I have created a structured dataset which can be used for further analysis. Also, I have used OMDb API to get `imdb`, `metascore`, `rotten_tomatoes` data which is combined with the dcapped data. The final data is stored as CSV.
+For this project I performed scraping of data availale on wikipedia for disney movies such as `Title`, `Directed by`, `Produced by`, `Written by`, `Narrated by`,  `Music by`, `Cinematography`, `Edited by`, `Production company`, `Distributed by`, `Release date`, `Running time`, `Country`, `Language` and created a structured dataset of disney movies which can be used for further analysis. Also, I have used OMDb API to get `imdb`, `metascore`, `rotten_tomatoes` data which is combined with the scapped data. The final data is stored as CSV.
 
 ### Prerequisite packages and software
 * Python
