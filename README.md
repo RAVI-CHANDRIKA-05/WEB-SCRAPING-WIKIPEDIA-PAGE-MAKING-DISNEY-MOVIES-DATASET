@@ -37,5 +37,3 @@ For this project I performed scraping of Wikipedia pages for Disney movies to cr
 * Parsed out the main monetary values of different formats from Budget and Box-Office columns using several regexes together.
 * Cleaned other columns like Running time and Imdb-rating and then converted their data-types to numeric.
 
-
-
